@@ -1,0 +1,15 @@
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\bin\Debug\net6.0\Account Management System.exe
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\bin\Debug\net6.0\Account Management System.deps.json
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\bin\Debug\net6.0\Account Management System.runtimeconfig.json
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\bin\Debug\net6.0\Account Management System.dll
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\bin\Debug\net6.0\Account Management System.pdb
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.csproj.AssemblyReference.cache
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.AssemblyInfoInputs.cache
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.AssemblyInfo.cs
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.csproj.CoreCompileInputs.cache
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.dll
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\refint\Account Management System.dll
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.pdb
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\Account Management System.genruntimeconfig.cache
+D:\MacEwan\Winter Term\C# Practice\Account Management System\Account Management System\obj\Debug\net6.0\ref\Account Management System.dll

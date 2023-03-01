@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account Management System", "Account Management System\Account Management System.csproj", "{9743E826-8ED8-4291-B626-DED75D01B81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9743E826-8ED8-4291-B626-DED75D01B81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9743E826-8ED8-4291-B626-DED75D01B81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9743E826-8ED8-4291-B626-DED75D01B81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9743E826-8ED8-4291-B626-DED75D01B81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDBE921-360F-41C2-A74B-0A991678A161}
+	EndGlobalSection
+EndGlobal
